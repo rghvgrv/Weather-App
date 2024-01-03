@@ -7,5 +7,5 @@ The <b> Open Weather API </b> is used in order to fetch the weather.
 # Tech Used 👨‍💻
 
 Front-end :- HTML, CSS and JS <br>
-API :-  [Open Weather API](https://openweathermap.org/current)
+API :-  [Open Weather API](https://openweathermap.org/current) </br>
 Visit the site :- [Weather App](https://rghvgrv.github.io/Weather-App/)
