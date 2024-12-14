@@ -10,3 +10,4 @@ Front-end :- HTML, CSS and JS <br>
 API :-  [Open Weather API](https://openweathermap.org/current) </br>
 Visit the site :- [Weather App](https://rghvgrv.github.io/Weather-App/)
   
+  
